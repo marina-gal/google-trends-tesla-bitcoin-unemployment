@@ -11,7 +11,6 @@ The analysis explores how public interest (Google Trends) relates to real-world 
 - U.S. unemployment rate
 
 The notebook includes the following main sections:
-
 ### 1. **Analyzing Google Trends**
 Initial exploration of trends for Tesla, Bitcoin, and Unemployment.
 
