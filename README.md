@@ -32,15 +32,15 @@ Converting dates, handling nulls, and aligning datasets.
 
 ### 6. **Resampling for Comparability**
 Using `.resample()` to match time scales:
-- Weekly
 - Monthly
 - Daily (as needed)
 
 ### 7. **Visualizations**
 Final comparable line charts:
-- Tesla trend vs price  
-- Bitcoin trend vs price  
-- Unemployment trend vs unemployment rate  
+- Tesla trend search vs price  
+- Bitcoin trend search vs price  
+- Unemployment trend search vs unemployment rate
+- Rolling 6 Month average: Unemployment trend search vs unemployment rate
 
 ### 8. **Including 2020**
 Analysis of the COVID-19 period and how search interest spiked for some indicators.
@@ -64,7 +64,7 @@ The analysis is implemented in Python using a **Jupyter Notebook**, with a focus
 - Understanding patterns between public search behavior and real economic indicators  
 
 
-Example of the Bitcoin News Search vs the Resampled Price. For deeper analysis, find it in the notebook.
+A glance of the Bitcoin News Search vs the Resampled Price. Find the full analysis in the notebook attached.
 
 <img width="1163" height="638" alt="image" src="https://github.com/user-attachments/assets/5a86e30d-2ffd-4ce2-9e45-511871eea0d0" />
 
