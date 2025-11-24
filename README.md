@@ -2,13 +2,15 @@
 
 <img width="248" height="90" alt="image" src="https://github.com/user-attachments/assets/fbad2e39-c4ac-4cc3-ae6f-b180a2f64600" />
 
-
 This project is part of the **"100 Days of Python" course by Angela Yu (Udemy)** and was expanded to showcase practical **data analysis skills in Python**.
 The analysis explores how public interest (Google Trends) relates to real-world indicators:
 - Tesla stock price (TSLA)
 - Bitcoin daily price (BTC)
 - Bitcoin trend search
 - U.S. unemployment rate
+
+The analysis is implemented in Python using a **Jupyter Notebook**, with a focus on time series handling, data cleaning, resampling, and visual exploration.
+---
 
 The notebook includes the following main sections:
 ### 1. **Analyzing Google Trends**
@@ -45,8 +47,7 @@ Final comparable line charts:
 ### 8. **Including 2020**
 Analysis of the COVID-19 period and how search interest spiked for some indicators.
 
-
-The analysis is implemented in Python using a **Jupyter Notebook**, with a focus on time series handling, data cleaning, resampling, and visual exploration.
+---
 
 ### Technologies Used
 - Jupyter Notebook  
@@ -54,6 +55,8 @@ The analysis is implemented in Python using a **Jupyter Notebook**, with a focus
 - Pandas  
 - Matplotlib.pyplot
 - Matplotlib.mdates
+
+--- 
 
 ### Key Skills
 
@@ -63,7 +66,7 @@ The analysis is implemented in Python using a **Jupyter Notebook**, with a focus
 - Visualization and exploratory data analysis  
 - Understanding patterns between public search behavior and real economic indicators  
 
-
+---
 A glance of the Bitcoin News Search vs the Resampled Price. Find the full analysis in the notebook attached.
 
 <img width="1163" height="638" alt="image" src="https://github.com/user-attachments/assets/5a86e30d-2ffd-4ce2-9e45-511871eea0d0" />
