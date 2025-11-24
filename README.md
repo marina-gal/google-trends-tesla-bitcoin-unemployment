@@ -1,5 +1,8 @@
 # Google Trends Analysis: Tesla, Bitcoin & Unemployment
 
+<img width="248" height="90" alt="image" src="https://github.com/user-attachments/assets/fbad2e39-c4ac-4cc3-ae6f-b180a2f64600" />
+
+
 This project is part of the **"100 Days of Python" course by Angela Yu (Udemy)** and was expanded to showcase practical **data analysis skills in Python**.
 The analysis explores how public interest (Google Trends) relates to real-world indicators:
 - Tesla stock price (TSLA)
